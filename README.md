@@ -9,3 +9,5 @@ O Genius original possuía três jogos diferentes e quatro níveis de dificuldad
 ## Desafio de código na DIO
 
 Inserindo os primeiros arquivos
+
+Feito o design do jogo na tela, com algumas cores personalizadas
