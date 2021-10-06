@@ -13,3 +13,11 @@ Inserindo os primeiros arquivos
 Feito o design do jogo na tela, com algumas cores personalizadas
 
 Iniciando com o arquivo JS com as primeiras funções definidas: shuffleOrder e ligthColor. Além das variáveis que irão selecionar as caixas para mostrar quando estarão acesas.
+
+Adicionado nova função que verifica o que o usuário clicou quando a luz do jogo acendeu.
+
+## Explicando as funções
+* suffleOrder - cria ordem aleatória de cores;
+* ligthColor - acende a próxima cor;
+* checkOrder - Checa se os boões clicados são na mesma ordem gerada no jogo;
+* Click - Função para o clique do usuário;
