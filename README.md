@@ -11,3 +11,5 @@ O Genius original possuía três jogos diferentes e quatro níveis de dificuldad
 Inserindo os primeiros arquivos
 
 Feito o design do jogo na tela, com algumas cores personalizadas
+
+Iniciando com o arquivo JS com as primeiras funções definidas: shuffleOrder e ligthColor. Além das variáveis que irão selecionar as caixas para mostrar quando estarão acesas.
