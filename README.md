@@ -20,6 +20,8 @@ Adicionado a funções que retorna as cores, para próximo nível do jogo, para 
 
 Pequenos ajustes nos arquivos index.html e style.css
 
+Adicionando título e botão de iniciar o jogo. E adicionando algumas estilizações em h1, h2 e buttom
+
 ## Explicando as funções
 * suffleOrder - cria ordem aleatória de cores;
 * ligthColor - acende a próxima cor;
