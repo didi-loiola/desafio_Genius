@@ -41,10 +41,10 @@ Adicionado imagens ao repositório com Screenshots das telas do jogo.
 
 ## Fotos da aplicação
 
-![Screenshot 1](/img/Captura1?raw=true "Tela Inicial")
+![Screenshot 1](/img/Captura1.png?raw=true "Tela Inicial")
 
-![Screenshot 2](/img/Captura2?raw=true "Inicio do Jogo")
+![Screenshot 2](/img/Captura2.png?raw=true "Inicio do Jogo")
 
-![Screenshot 3](/img/Captura3?raw=true "Passando de uma fase")
+![Screenshot 3](/img/Captura3.png?raw=true "Passando de uma fase")
 
-![Screenshot 4](/img/Captura4?raw=true "Fim de Jogo")
+![Screenshot 4](/img/Captura4.png?raw=true "Fim de Jogo")
