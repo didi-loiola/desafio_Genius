@@ -2,13 +2,6 @@ let order = [];
 let clickedOrder = [];
 let score = 0;
 
-//let high-score = 0; fazer isso depois de terminado
-
-//0 - verde
-//1 - vermelho
-//2 - amarelo
-//3 - azul
-
 const blue = document.querySelector('.blue');
 const red = document.querySelector('.red');
 const green = document.querySelector('.green');
@@ -84,7 +77,7 @@ let gameOver = () => {
 }
 
 let playGame = () => {
-    alert('Bem vindo ao Genius! Iniciando o jogo!');
+    alert('Iniciando o jogo!');
     score = 0;
 
     nextLevel();
@@ -94,5 +87,3 @@ green.onclick = () => click(0);
 red.onclick = () => click(1);
 yellow.onclick = () => click(2);
 blue.onclick = () => click(3);
-
-playGame();
