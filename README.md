@@ -16,6 +16,10 @@ Iniciando com o arquivo JS com as primeiras funções definidas: shuffleOrder e 
 
 Adicionado nova função que verifica o que o usuário clicou quando a luz do jogo acendeu.
 
+Adicionado a funções que retorna as cores, para próximo nível do jogo, para quando o jogador errar, iniciar o jogo
+
+Pequenos ajustes nos arquivos index.html e style.css
+
 ## Explicando as funções
 * suffleOrder - cria ordem aleatória de cores;
 * ligthColor - acende a próxima cor;
