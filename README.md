@@ -34,6 +34,9 @@ Adicionado imagens ao repositório com Screenshots das telas do jogo.
 * gameOver - finaliza o jogo e iniciar de novo logo em seguida
 * playGame - alerta e inicia o jogo
 
+## Correções
+* Corrigido a cor que não apagava após aparecer a ordem
+
 ## Atualizações Futuras
 * Corrigir alerta de continuar o jogo mesmo depois de errar quando removo a função playGame() de dentro da função gameOver()
 * Adicionar High-Score

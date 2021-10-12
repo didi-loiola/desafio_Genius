@@ -19,13 +19,13 @@ let shuffleOrder = () => {
 }
 
 let ligthColor = (element, number) => {
-    number = number * 500;
+    number = number * 1000;
     setTimeout(() => {
         element.classList.add('selected');
-    }, number - 250);
+    }, number - 300);
     setTimeout(() => {
         element.classList.remove('selected');
-    })
+    }, number - 50);
 }
 
 let checkOrder = () => {
@@ -49,7 +49,7 @@ let click = (color) => {
     setTimeout(() => {
         createColorElement(color).classList.remove('selected');
         checkOrder();
-    }, 1);
+    }, 250);
 }
 
 let createColorElement = (color) => {
@@ -78,6 +78,8 @@ let gameOver = () => {
 
 let playGame = () => {
     alert('Iniciando o jogo!');
+    order = [];
+    clickedOrder =  [];
     score = 0;
 
     nextLevel();
