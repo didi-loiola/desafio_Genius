@@ -46,8 +46,6 @@ Adicionado imagens ao repositório com Screenshots das telas do jogo.
 
 ![Screenshot 1](img/Captura1.png?raw=true "Tela Inicial")
 
-![Screenshot 2](img/Captura2.png?raw=true "Inicio do Jogo")
+## Jogue aqui
 
-![Screenshot 3](img/Captura3.png?raw=true "Passando de uma fase")
-
-![Screenshot 4](img/Captura4.png?raw=true "Fim de Jogo")
+(Jogo Genius)[https://didi-loiola.github.io/desafio_Genius/]
