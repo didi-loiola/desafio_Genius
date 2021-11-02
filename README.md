@@ -48,4 +48,4 @@ Adicionado imagens ao repositório com Screenshots das telas do jogo.
 
 ## Jogue aqui
 
-(Jogo Genius)[https://didi-loiola.github.io/desafio_Genius/]
+<a href="https://didi-loiola.github.io/desafio_Genius/">Jogo Genius</a>
